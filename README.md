@@ -1,0 +1,1 @@
+Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/yyqco0r76c3vjr6g?svg=true)](https://ci.appveyor.com/project/yulivanova/selenide)
